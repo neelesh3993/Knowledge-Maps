@@ -1,5 +1,5 @@
 {
-  "name": "knowledge-maps",
+  "name": "nodum",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "cytoscape": "^3.33.1",
-    "papaparse": "^5.5.3",
+    "@antv/g6": "^4.8.25",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
