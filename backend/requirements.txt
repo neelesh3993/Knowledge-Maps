@@ -1,0 +1,13 @@
+flask
+flask-cors
+torch
+transformers
+sentence-transformers
+adapters
+umap-learn
+hdbscan
+gensim
+nltk
+scikit-learn
+numpy
+pandas
